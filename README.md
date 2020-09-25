@@ -1,2 +1,2 @@
 # ShoppingAppAndroid
-Team Project for Android Class
+Team Project with Pascal Diana for Android Class
