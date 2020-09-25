@@ -52,7 +52,7 @@ public class RecipesFragment extends Fragment {
         final ProgressDialog progressDialog = new ProgressDialog(getContext());
         progressDialog.setMessage("Loading...");
         progressDialog.show();
-        String url = "https://my-json-server.typicode.com/VasuAndra1234567899/Androidjson/recipes";
+        String url = "https://my-json-server.typicode.com/VasuAndra/AndroidProjectJSON/recipes";
 
         JsonArrayRequest jsonArrayRequest = new JsonArrayRequest(url, new Response.Listener<JSONArray>() {
             @Override
