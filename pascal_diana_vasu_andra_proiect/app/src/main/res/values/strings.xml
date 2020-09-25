@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping List App</string>
+    <string name="noLists">There are no Lists yet!</string>
+    <string name="noProducts">There are no Products yet!</string>
+    <string name="timePicker">Time picker</string>
+    <string name="datePicker">Date picker</string>
+    <string name="createAlarm">Create alarm</string>
+    <string name="grocery">Grocery</string>
+    <string name="milk">Milk</string>
+    <string name="createdBy">Created by</string>
+    <string name="date">Date</string>
+</resources>
